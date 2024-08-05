@@ -31,7 +31,7 @@ jobs:
     
     - name: Push Docker Image
       run: |
-        docker push gguzman89/docker-graphql:0.0.2 .
+        docker push gguzman89/docker-graphql:0.0.2
 
 
 
